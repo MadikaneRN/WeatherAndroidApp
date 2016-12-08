@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\richardm.AWARDS.CO.ZA\\Desktop\\WeatherAndroidApp\\2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\richardm.AWARDS.CO.ZA\\Desktop\\WeatherAndroidApp\\2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Bonga\\Desktop\\MadikaneTest\\2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Bonga\\Desktop\\MadikaneTest\\2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }

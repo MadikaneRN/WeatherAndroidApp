@@ -13,5 +13,22 @@ public class Channel implements JSONPopulator {
     @Override
     public void populate(JSONObject data) {
 
+        units = new Units();
+        units.populate(data.optJSONObject("units"));
+
+
+        item = new Item();
+        item. populate(data.optJSONObject("item"));
+
+
+    }
+
+
+    public Item getItem() {
+        return item;
+    }
+
+    public Units getUnits() {
+        return units;
     }
 }
