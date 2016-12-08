@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_122208e1e3affec8d2528877068af0a8cc5eb4eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonga\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_fb8bf469d9ccfb62e3ab75ff071b07a33416e916.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha2_1ba03e6f2dc02840a4bc44ef004bffebec215d63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_fb00b98dc9f74f1fc31f3164eb38da800754e471.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha2_4018a816f017632afc89d7953e3304b91dc91f78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="C:\Users\Bonga\Desktop\MadikaneTest\2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha2_4544ba52755eb583e9d726bb4df510e510b570ce.jar" />
+    </item>
+
+</items>
